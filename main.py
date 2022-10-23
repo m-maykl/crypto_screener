@@ -12,7 +12,7 @@ timeframe ="1m"
 
 #\\\\\\\\\\\\\\\\\\\\\\
 
-
+#dsasgsdfgsdfhdfsgdsfgdfgdsg
 
 def indicators(symbol):
     price = float((client_fut.klines(symbol, timeframe, limit=1)[0])[4])
